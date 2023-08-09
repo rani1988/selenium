@@ -8,7 +8,7 @@ public class Fibonacciseries {
 
         System.out.print("Fibonacci Series of "+count+" numbers:");
 
-        for (int i = 1; i <= count; ++i)
+        for (int i = 1; i <= count; ++i)//this is error
 
         {
 
